@@ -6,7 +6,7 @@ public class Uploading2Github {
 	 * @param args
 	 */
 	public static void main(String[] args) {
-	System.out.println("First upload to Github");
+	System.out.println("Second upload to Github");
 
 	}
 
