@@ -13,7 +13,7 @@ public class HelloWorld {
 	 * @param args
 	 */
 	public static void main(String[] args) {
-		System.out.println("This is a test from Raul Gomez, uploading to GitHub, 1st commit ");
+		System.out.println("This is a test from Raul Gomez, uploading to GitHub, 2nd commit ");
 
 	}
 
